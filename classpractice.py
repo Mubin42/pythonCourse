@@ -12,7 +12,8 @@ class Student:
     def math(self):
         return self.age*self.cgpa
 
-
+class UndergradStudent():
+    pass
 student1 = Student("Mr","Tom",20,10,3.50)
 print(student1.first,student1.last)
 student2 = Student("Mr","Jerry",19,11,3.20)
