@@ -3,7 +3,6 @@ b = float(input("Second Number: "))
 sum = a + b
 sub = a - b
 mult = a * b
-div = a / b
 diff = abs(a-b)
 power = pow(a,b)
 
